@@ -1,0 +1,24 @@
+PODS:
+  - CocoaLumberjack/Default (3.4.0)
+  - CocoaLumberjack/Swift (3.4.0):
+    - CocoaLumberjack/Default
+
+DEPENDENCIES:
+  - CocoaLumberjack/Swift (from `https://github.com/CocoaLumberjack/CocoaLumberjack`, branch `master`)
+
+EXTERNAL SOURCES:
+  CocoaLumberjack:
+    :branch: master
+    :git: https://github.com/CocoaLumberjack/CocoaLumberjack
+
+CHECKOUT OPTIONS:
+  CocoaLumberjack:
+    :commit: a1e06a7757384337cb70c2f8b139b88a92184e02
+    :git: https://github.com/CocoaLumberjack/CocoaLumberjack
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: bf3aaab809199ade9fdbeff663103503cae38f7e
+
+PODFILE CHECKSUM: a0d1944dfd229dbf51d491cdec15b01babcc649d
+
+COCOAPODS: 1.3.1
